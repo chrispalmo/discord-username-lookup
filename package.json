@@ -1,0 +1,12 @@
+{
+  "name": "discord-username-lookup",
+  "version": "1.0.0",
+  "description": "Lookup a list of Discord usernames to check if they are available/taken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
